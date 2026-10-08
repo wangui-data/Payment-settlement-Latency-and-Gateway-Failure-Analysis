@@ -1,2 +1,2 @@
 # Payment-settlement-Latency-and-Gateway-Failure-Analysis
-An analysis of how long payments take to be fully completed, together with an investigation into how often and why payments fail across different payment gateways.
+End-to-end fintech data analytics evaluating payment gateway failure rates, transaction settlement latency, and cross-border processing efficiency using SQL and Power BI.

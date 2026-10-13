@@ -3,7 +3,7 @@ End-to-end fintech data analytics evaluating payment gateway failure rates, tran
 #  Fintech Payment Settlement Latency Analysis
 
 
-# business observations
+# Business Observations and Findings
 
 ### Bank transfers are the dominant payment method.
 Bank transfers account for the largest share of payment activity in the dataset, indicating that customers rely heavily on bank-based payments. This suggests that **bank-transfer reliability and settlement performance are particularly important to the overall payment experience.**

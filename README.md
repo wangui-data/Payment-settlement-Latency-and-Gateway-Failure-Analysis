@@ -26,6 +26,9 @@ This capstone project evaluates end-to-end data analytics and querying capabilit
 
 ---
 
+# 🎯 Business Problem
+
+A fintech platform lacks comprehensive visibility into customer lifetime value, transaction success rates, risk exposure (such as fraud and unverified KYC accounts), and fee monetization efficiency across diverse customer segments and geographies. **Without a unified, data-driven assessment of these operational domains, the business struggles to optimize revenue generation, mitigate financial risk, and retain high-value customer cohorts.**
 
 
 
@@ -45,3 +48,12 @@ The customer with the highest payment value is based in Nigeria and is a Standar
 
 ###  5. Standard-tier customers have the highest average lifetime value.
 The Standard customer tier has the highest average lifetime value at **52,791**, indicating that Standard-tier customers generate greater long-term value on average than customers in the other tiers. This could support further **investigation into what behaviors, transaction patterns, or customer characteristics are driving the higher value of Standard-tier customers.**
+
+
+
+
+👤 Author
+
+Wangui Esther
+
+Data Analyst | MySQL | Power BI | Business Intelligence | Data Visualization |

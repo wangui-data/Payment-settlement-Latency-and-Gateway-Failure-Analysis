@@ -50,6 +50,7 @@ The customer with the highest payment value is based in Nigeria and is a Standar
 The Standard customer tier has the highest average lifetime value at **52,791**, indicating that Standard-tier customers generate greater long-term value on average than customers in the other tiers. This could support further **investigation into what behaviors, transaction patterns, or customer characteristics are driving the higher value of Standard-tier customers.**
 
 
+---
 
 
 👤 Author

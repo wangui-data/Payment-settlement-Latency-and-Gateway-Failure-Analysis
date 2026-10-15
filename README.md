@@ -4,23 +4,23 @@ End-to-end fintech data analytics evaluating payment gateway failure rates, tran
 
 # 📌 Executive Summary
 
-This capstone project evaluates end-to-end data analytics and querying capabilities within a simulated fintech ecosystem comprising 24 targeted questions across 6 core domains. Using a relational database structure spanning 3 tables, the assessment bridges foundational data extraction with advanced financial intelligence, risk management, and window function analytics.
+This capstone project evaluates end-to-end data analytics and querying capabilities within a simulated fintech ecosystem  across 6 core domains. Using a relational database spanning 3 tables, the assessment bridges foundational data extraction with advanced financial intelligence, risk management, and window-function analytics.
 
 ---
 
 # Key Focus Areas & Analytical Scope
 
-Customer Demographics & Value: Evaluates foundational user distribution (country, KYC status) alongside advanced customer segmentation, lifetime value (LTV) drivers, and cohort acquisition retention.
+**Customer Demographics & Value**: Evaluates foundational user distribution (country, KYC status) alongside advanced customer segmentation, lifetime value (LTV) drivers, and cohort acquisition retention.
 
-Payment Performance & Operations: Analyzes systemic transaction health, examining success rates, payment method efficiencies, monthly volume trends, processor reliability, and settlement velocity across channels.
+**Payment Performance & Operations**: Analyzes systemic transaction health, examining success rates, payment method efficiencies, monthly volume trends, processor reliability, and settlement velocity across channels.
 
-Transaction Dynamics: Explores transactional behavior by type, dominant spending categories for debit volume, liquidity risk (negative balances), and annual customer net positions (credits versus debits).
+**Transaction Dynamics**: Explores transactional behavior by type, dominant spending categories for debit volume, liquidity risk (negative balances), and annual customer net positions (credits versus debits).
 
-Risk, Fraud, & Compliance: Focuses on platform security by quantifying flagged transactions, identifying high-risk spending categories/channels, isolating unverified KYC high-value anomalies, and detecting abnormal refund behaviors.
+**Risk, Fraud, & Compliance**: Focuses on platform security by quantifying flagged transactions, identifying high-risk spending categories/channels, isolating unverified KYC high-value anomalies, and detecting abnormal refund behaviors.
 
-Revenue & Fee Optimization: Measures top-line fee generation, effective fee rates, high-yield payment methods, and micro-segment profitability across customer tiers and geographies.
+**Revenue & Fee Optimization**: Measures top-line fee generation, effective fee rates, high-yield payment methods, and micro-segment profitability across customer tiers and geographies.
 
-Advanced Data Engineering: Utilizes complex analytical techniques—including window functions for global country-level rankings, velocity metrics (time between first and second payments), and cohort conversion modeling.
+**Advanced Data Engineering**: Utilizes complex analytical techniques—including window functions for global country-level rankings, velocity metrics (time between first and second payments), and cohort conversion modeling.
 
 ---
 

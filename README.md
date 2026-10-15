@@ -8,7 +8,7 @@ This capstone project evaluates end-to-end data analytics and querying capabilit
 
 ---
 
-# Key Focus Areas & Analytical Scope
+#  📖 Key Focus Areas & Analytical Scope
 
 **- Customer Demographics & Value**: Evaluates foundational user distribution (country, KYC status) alongside advanced customer segmentation, lifetime value (LTV) drivers, and cohort acquisition retention.
 
@@ -23,13 +23,14 @@ This capstone project evaluates end-to-end data analytics and querying capabilit
 **- Advanced Data Engineering**: Utilizes complex analytical techniques—including window functions for global country-level rankings, velocity metrics (time between first and second payments), and cohort conversion modeling.
 
 
-The goal is to identify patterns that may indicate high transaction volumes, unusual payment behavior, fraud risk, or shifting customer lifetime value.
+ `The goal is to identify patterns that may indicate high transaction volumes, unusual payment behavior, fraud risk, or shifting customer lifetime value.`
+
 ---
 
 
 
 
-# Business Observations and Findings
+# 💡 Business Observations and Findings
 
 ### 1. Bank transfers are the dominant payment method.
 Bank transfers account for the largest share of payment activity in the dataset, indicating that customers rely heavily on bank-based payments. This suggests that **bank-transfer reliability and settlement performance are particularly important to the overall payment experience.**

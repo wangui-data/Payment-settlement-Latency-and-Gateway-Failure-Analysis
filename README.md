@@ -22,10 +22,11 @@ This capstone project evaluates end-to-end data analytics and querying capabilit
 
 **- Advanced Data Engineering**: Utilizes complex analytical techniques—including window functions for global country-level rankings, velocity metrics (time between first and second payments), and cohort conversion modeling.
 
+
+The goal is to identify patterns that may indicate high transaction volumes, unusual payment behavior, fraud risk, or shifting customer lifetime value.
 ---
 
-Strategic Objective
-The primary goal of this capstone is to demonstrate the ability to translate raw transactional data into actionable business intelligence—balancing operational performance, user growth, and risk mitigation.
+
 
 
 # Business Observations and Findings

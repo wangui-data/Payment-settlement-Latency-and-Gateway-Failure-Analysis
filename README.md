@@ -6,7 +6,10 @@ End-to-end fintech data analytics evaluating payment gateway failure rates, tran
 
 This capstone project evaluates end-to-end data analytics and querying capabilities within a simulated fintech ecosystem comprising 24 targeted questions across 6 core domains. Using a relational database structure spanning 3 tables, the assessment bridges foundational data extraction with advanced financial intelligence, risk management, and window function analytics.
 
-Key Focus Areas & Analytical Scope
+---
+
+# Key Focus Areas & Analytical Scope
+
 Customer Demographics & Value: Evaluates foundational user distribution (country, KYC status) alongside advanced customer segmentation, lifetime value (LTV) drivers, and cohort acquisition retention.
 
 Payment Performance & Operations: Analyzes systemic transaction health, examining success rates, payment method efficiencies, monthly volume trends, processor reliability, and settlement velocity across channels.
@@ -18,6 +21,8 @@ Risk, Fraud, & Compliance: Focuses on platform security by quantifying flagged t
 Revenue & Fee Optimization: Measures top-line fee generation, effective fee rates, high-yield payment methods, and micro-segment profitability across customer tiers and geographies.
 
 Advanced Data Engineering: Utilizes complex analytical techniques—including window functions for global country-level rankings, velocity metrics (time between first and second payments), and cohort conversion modeling.
+
+---
 
 Strategic Objective
 The primary goal of this capstone is to demonstrate the ability to translate raw transactional data into actionable business intelligence—balancing operational performance, user growth, and risk mitigation.

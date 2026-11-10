@@ -71,6 +71,14 @@ A fintech platform lacks comprehensive visibility into customer lifetime value, 
 - Identified potential revenue optimisation and customer retention opportunities.
 
 ---
+# 📂 Dataset Overview
+The project uses a relational database consisting of three primary tables representing different aspects of the fintech platform's operations.
+
+The project uses three main tables:
+
+### `users `
+
+---
 
 # 💡 Business Observations and Findings
 

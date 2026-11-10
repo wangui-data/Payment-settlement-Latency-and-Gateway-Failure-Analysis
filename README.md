@@ -1,5 +1,5 @@
 # payment-settlement-latency-and-gateway-failure-analysis
-End-to-end fintech data analytics evaluating payment gateway failure rates, transaction settlement latency, and cross-border processing efficiency using SQL and Power BI.
+An end-to-end fintech analytics project exploring customer behaviour, payment performance, transaction activity, revenue generation and financial risk using MySQL and Power BI. The project applies SQL querying and analytical techniques to uncover operational inefficiencies, customer value patterns and potential compliance risks within a simulated fintech environment.
 #  Fintech Payment Settlement Latency Analysis
 
 # 📌 Executive Summary

@@ -53,15 +53,18 @@ A fintech platform lacks comprehensive visibility into customer lifetime value, 
 - Examined the relational database structure and available tables.
 - Identified relevant customer, payment and transaction attributes.
 - Reviewed available date fields, transaction statuses and financial measures.
+
 **2. Data Analysis**
 - Used SQL to investigate customer demographics and segmentation.
 - Analysed payment performance, transaction volumes and payment methods.
 - Evaluated customer lifetime value and acquisition patterns.
 - Investigated transaction risks, KYC compliance and revenue generation.
+
 **3. Business Intelligence**
 - Translated SQL findings into business performance indicators.
 - Identified metrics suitable for interactive Power BI reporting.
 - Developed a dashboard approach for monitoring customer, payment and financial performance.
+
 **4. Business Recommendations**
 - Identified opportunities for improved payment monitoring.
 - Highlighted customer segments requiring additional compliance attention.

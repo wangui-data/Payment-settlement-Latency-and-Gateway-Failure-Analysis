@@ -193,7 +193,7 @@ The `transactions` table captures individual financial movements, including tran
 | ---------- | ----------- | ------------ |
 | `users` | `payments`     | 1 : Many     |
 | `users` | `transactions`     | 1 : Many     |
-| `payments`   | `transactions`     | 1 : Many     |
+| `payments*`   | `transactions`     | 1 : Many     |
 
 - One customer can initiate multiple payments.
 - One customer can have multiple financial transactions.

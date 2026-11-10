@@ -4,7 +4,11 @@ An end-to-end fintech analytics project exploring customer behaviour, payment pe
 
 # 📌 Executive Summary
 
-This capstone project evaluates end-to-end data analytics and querying capabilities within a simulated fintech ecosystem  across 6 core domains. Using a relational database spanning 3 tables, the assessment bridges foundational data extraction with advanced financial intelligence, risk management, and window-function analytics.
+This project investigates the operational and financial performance of a simulated fintech platform using relational data across three core tables: users, payments, and transactions.
+
+The analysis examines customer acquisition, customer lifetime value, payment performance, transaction behaviour, revenue generation, and financial risk exposure.
+
+Using MySQL, I developed analytical queries to investigate business performance, identify patterns in customer and transaction activity, and uncover potential operational and compliance concerns. The findings support data-driven decisions on payment reliability, customer retention, revenue optimisation, and risk monitoring.
 
 ---
 

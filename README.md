@@ -185,6 +185,15 @@ The `transactions` table captures individual financial movements, including tran
                   transactions
 
 ```
+---
+
+### Relationship Design
+
+| Dimension / Parent | Fact / Related Table       | Relationship |
+| ---------- | ----------- | ------------ |
+| `users` | `payments`     | 1 : Many     |
+| `users` | `transactions`     | 1 : Many     |
+| `payments`   | `transactions`     | 1 : Many     |
 
 ---
 

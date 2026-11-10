@@ -76,8 +76,81 @@ The project uses a relational database consisting of three primary tables repres
 
 The project uses three main tables:
 
-### `users `
+### `users`
 
+Contains customer information, including personal details, demographic attributes, account registration information, verification status, customer segmentation, and lifetime value.
+
+| Column | Description |
+| ------------ | ----------------------------------- |
+| `customer_id` | Unique identifier assigned to each customer |
+| `first_name` | Customer's first name |
+| `last_name` | Customer's last name |
+| `email` | Customer's registered email address |
+| `phone_country_code` | International telephone country code |
+| `gender` | Customer's recorded gender |
+| `date_of_birth` | Customer's date of birth |
+| `age` | Customer's age |
+| `country` | Country where the customer is registered |
+| `currency` | Customer's associated currency |
+| `tier` | Customer classification or account tier |
+| `kyc_status` | Customer identity verification status |
+| `occupation` | Customer's recorded occupation |
+| `is_active` | Indicates whether the customer account is active |
+| `referral_code` | Referral code associated with the customer |
+| `referred_by` | Referral identifier of the referring customer |
+| `joined_date` | Date the customer registered on the platform |
+| `last_login_date` | Most recent recorded customer login date |
+| `monthly_income_band` | Customer's estimated monthly income category |
+| `total_lifetime_value` | Total recorded lifetime value associated with the customer |
+
+---
+
+### `payments`
+
+Contains records of payment activities conducted by customers through the fintech platform.
+
+| Column | Description |
+| ------------ | ----------------------------------- |
+| `payment_id` | Unique identifier assigned to each payment |
+| `customer_id` | Identifier linking the payment to a customer |
+| `amount` | Gross payment amount |
+| `currency` | Currency in which the payment was processed |
+| `fee` | Fee charged on the payment |
+| `net_amount` | Net payment amount after applicable fees or adjustments |
+| `payment_method` | Payment method used to initiate the payment |
+| `processor` | Payment processor responsible for handling the payment |
+| `status` | Payment processing status |
+| `channel` | Channel through which the payment was initiated |
+| `country` | Country associated with the payment |
+| `created_at` | Date and time the payment was initiated |
+| `settled_at` | Date and time the payment was settled |
+| `payment_reference` | Unique reference used to identify or track the payment |
+
+---
+
+### `transactions`
+
+Contains records of financial transactions conducted by customers within the fintech platform.
+
+| Column | Description |
+| ------------ | ----------------------------------- |
+| `transaction_id` | Unique identifier assigned to each transaction |
+| `payment_id` | Identifier linking the transaction to its associated payment |
+| `customer_id` | Identifier linking the transaction to a customer |
+| `transaction_type` | Classification of the transaction, such as debit or credit |
+| `amount` | Monetary value of the transaction |
+| `currency` | Currency in which the transaction was recorded |
+| `category` | Category associated with the transaction |
+| `channel` | Channel through which the transaction was conducted |
+| `country` | Country associated with the transaction |
+| `balance_before` | Customer account balance before the transaction |
+| `balance_after` | Customer account balance following the transaction |
+| `description` | Additional information describing the transaction |
+| `is_flagged` | Indicates whether a transaction has been flagged for investigation |
+| `created_at` | Date and time the transaction was created |
+| `value_date` | Date on which the transaction is recognised for accounting purposes |
+
+---
 ---
 
 # 💡 Business Observations and Findings

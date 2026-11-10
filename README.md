@@ -34,6 +34,8 @@ Using **MySQL**, I developed analytical queries to investigate business performa
 
 A fintech platform lacks comprehensive visibility into customer lifetime value, transaction success rates, risk exposure (such as fraud and unverified KYC accounts), and fee monetization efficiency across diverse customer segments and geographies. **Without a unified, data-driven assessment of these operational domains, the business struggles to optimize revenue generation, mitigate financial risk, and retain high-value customer cohorts.**
 
+---
+
 # 🛠 Tools Used
 
 | Tool             | Purpose                                             |
@@ -43,6 +45,28 @@ A fintech platform lacks comprehensive visibility into customer lifetime value, 
 | **DAX**  | Business performance measures and calculated metrics  |
 | **Data Visualisation** | Identifying trends, comparisons and performance patterns |
 | **GitHub**       | Project documentation and portfolio presentation    |
+
+---
+
+# 📊 Analytical Approach
+1. Data Exploration
+- Examined the relational database structure and available tables.
+- Identified relevant customer, payment and transaction attributes.
+- Reviewed available date fields, transaction statuses and financial measures.
+2. Data Analysis
+- Used SQL to investigate customer demographics and segmentation.
+- Analysed payment performance, transaction volumes and payment methods.
+- Evaluated customer lifetime value and acquisition patterns.
+- Investigated transaction risks, KYC compliance and revenue generation.
+3. Business Intelligence
+- Translated SQL findings into business performance indicators.
+- Identified metrics suitable for interactive Power BI reporting.
+- Developed a dashboard approach for monitoring customer, payment and financial performance.
+4. Business Recommendations
+- Identified opportunities for improved payment monitoring.
+- Highlighted customer segments requiring additional compliance attention.
+- Identified potential revenue optimisation and customer retention opportunities.
+
 
 # 💡 Business Observations and Findings
 

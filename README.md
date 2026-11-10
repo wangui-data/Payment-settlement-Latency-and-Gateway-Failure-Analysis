@@ -8,7 +8,7 @@ This project investigates the operational and financial performance of a simulat
 
 The analysis examines customer acquisition, customer lifetime value, payment performance, transaction behaviour, revenue generation, and financial risk exposure.
 
-Using MySQL, I developed analytical queries to investigate business performance, identify patterns in customer and transaction activity, and uncover potential operational and compliance concerns. The findings support data-driven decisions on payment reliability, customer retention, revenue optimisation, and risk monitoring.
+Using **MySQL**, I developed analytical queries to investigate business performance, identify patterns in customer and transaction activity, and uncover potential operational and compliance concerns. The findings support data-driven decisions on payment reliability, customer retention, revenue optimisation, and risk monitoring.
 
 ---
 

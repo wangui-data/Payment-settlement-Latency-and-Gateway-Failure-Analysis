@@ -1,4 +1,6 @@
 # payment-settlement-latency-and-gateway-failure-analysis
+**MySQL** · **Power BI** · **DAX** · **Power Query** · **Data Modeling** · **Business Intelligence**
+
 An end-to-end fintech analytics project exploring customer behaviour, payment performance, transaction activity, revenue generation and financial risk using MySQL and Power BI. The project applies SQL querying and analytical techniques to uncover operational inefficiencies, customer value patterns and potential compliance risks within a simulated fintech environment.
 #  Fintech Payment Settlement Latency Analysis
 

@@ -195,6 +195,12 @@ The `transactions` table captures individual financial movements, including tran
 | `users` | `transactions`     | 1 : Many     |
 | `payments`   | `transactions`     | 1 : Many     |
 
+- One customer can initiate multiple payments.
+- One customer can have multiple financial transactions.
+- One payment can be associated with multiple transaction records, depending on the underlying transaction structure.
+
+These relationships enable integrated analysis of customer activity, payment performance, transaction behaviour, revenue generation, and financial risk.
+
 ---
 
 # 💡 Business Observations and Findings

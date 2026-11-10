@@ -34,7 +34,15 @@ Using **MySQL**, I developed analytical queries to investigate business performa
 
 A fintech platform lacks comprehensive visibility into customer lifetime value, transaction success rates, risk exposure (such as fraud and unverified KYC accounts), and fee monetization efficiency across diverse customer segments and geographies. **Without a unified, data-driven assessment of these operational domains, the business struggles to optimize revenue generation, mitigate financial risk, and retain high-value customer cohorts.**
 
+# 🛠 Tools Used
 
+| Tool             | Purpose                                             |
+| ---------------- | --------------------------------------------------- |
+| **MySQL** | Aggregations, joins, filtering, subqueries, window functions, querying, and analysis.  |
+| **Power BI**     | Data modeling, visualization, dashboard development |
+| **DAX**  | Business performance measures and calculated metrics  |
+| **Data Visualisation** | Identifying trends, comparisons and performance patterns |
+| **GitHub**       | Project documentation and portfolio presentation    |
 
 # 💡 Business Observations and Findings
 

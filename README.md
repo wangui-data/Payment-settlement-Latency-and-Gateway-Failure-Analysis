@@ -151,6 +151,41 @@ Contains records of financial transactions conducted by customers within the fin
 | `value_date` | Date on which the transaction is recognised for accounting purposes |
 
 ---
+
+# 📖 Data Model
+
+The fintech database uses a **relational model with two fact tables and a shared customer dimension**.
+
+### Fact Tables
+
+* `payments`
+* `transactions`
+
+### Dimension Table
+
+* `users`
+
+The `users` table acts as a shared dimension, connecting customer information to both payment and transaction activities.
+
+The `payments` table captures payment-level information, including payment amounts, processing fees, payment methods, processors, and settlement statuses.
+
+The `transactions` table captures individual financial movements, including transaction types, amounts, account balances, and flagged activities.
+
+```text
+                         users
+                           |
+                  1        |        1
+                   \       |       /
+                    \      |      /
+                     ↓     ↓     ↓
+                  payments  transactions
+                      |
+                      | 1 : *
+                      ↓
+                  transactions
+
+```
+
 ---
 
 # 💡 Business Observations and Findings

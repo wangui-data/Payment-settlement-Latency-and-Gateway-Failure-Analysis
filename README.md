@@ -78,7 +78,7 @@ A fintech platform lacks comprehensive visibility into customer lifetime value, 
 Bank transfers account for the largest share of payment activity in the dataset, indicating that customers rely heavily on bank-based payments. This suggests that **bank-transfer reliability and settlement performance are particularly important to the overall payment experience.**
 
 ### 2. Completed transactions dominate, but failed and non-finalized payments represent a meaningful share.
-Out of 246 transactions, 172 (70%) were completed, while 22 (9%) failed, 19 (7.7%) were refunded, 18 (7.3%) were cancelled, and 11 (4.5%) remained pending. Although most transactions were completed, roughly 30% did not result in a completed payment, **highlighting an opportunity to investigate payment failures, cancellations, refunds, and pending settlements.**
+Out of 242 transactions, 172 (70%) were completed, while 22 (9%) failed, 19 (7.7%) were refunded, 18 (7.3%) were cancelled, and 11 (4.5%) remained pending. Although most transactions were completed, roughly 30% did not result in a completed payment, **highlighting an opportunity to investigate payment failures, cancellations, refunds, and pending settlements.**
 
 ### 3. Payment value is concentrated among a small number of customers, with a notable KYC risk signal.
 The customer with the highest payment value is based in Nigeria and is a Standard-tier customer whose KYC status is unverified. Among the top 10 customers by completed payment value, 5 are verified, 4 are unverified, and 1 is pending, meaning that **half of the highest-value customers do not currently have a verified KYC status. This may warrant closer compliance and risk monitoring for high-value transactions.**
